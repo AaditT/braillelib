@@ -1,7 +1,3 @@
-# braille - 1st Place [winner](https://devpost.com/software/braille-h7kxzb "winner") at HarkerHacks 2018
-
-https://devpost.com/software/braille-h7kxzb
-
 A Python module that supports conversion between text, image, speech, and braille for developers.
 
 ### Inspiration
@@ -32,5 +28,3 @@ With this library, developers can simply install and import this library and per
 
 ### What I learned
 Through the process of making this project, I learned a lot about creating a library in Python. Specifically, I used built-in libaries, arrays, and dictionaries that helped me create my own library.
-
-# ThirdEye - project code can be found in /ThirdEye/ directory
